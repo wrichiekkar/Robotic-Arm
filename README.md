@@ -3,4 +3,4 @@ This was one of my first projects, which led me to fall in love with computer so
 
 Unfortunately, the code was lost and pictures of the robotic arm were not taken at the time of creation.
 
-Followed this manual: https://www.instructables.com/id/EEZYbotARM/
+<b>Followed this manual: https://www.instructables.com/id/EEZYbotARM/</b>
